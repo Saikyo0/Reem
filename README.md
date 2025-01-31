@@ -11,10 +11,10 @@
 <details open>
 
 <summary>Programs:</summary>
-	<img src="./reem/public/images/trademarks/studio-bg.png" alt="Reem Studio" height="200vw" width="auto"/>
-	<img src="./reem/public/images/trademarks/flow-bg.png" alt="Reem Flow" height="200vw" width="auto"/>
-	<img src="./reem/public/images/trademarks/space-bg.png" alt="Reem Space" height="200vw" width="auto"/>
-	<img src="./reem/public/images/trademarks/store-bg.png" alt="Reem Store" height="200vw" width="auto"/>
+	<img src="./reem/public/images/trademarks/studio-bg.png" alt="Reem Studio" width="auto"/>
+	<img src="./reem/public/images/trademarks/flow-bg.png" alt="Reem Flow" width="auto"/>
+	<img src="./reem/public/images/trademarks/space-bg.png" alt="Reem Space" width="auto"/>
+	<img src="./reem/public/images/trademarks/store-bg.png" alt="Reem Store" width="auto"/>
 </details>
 
 <div align="center" style="padding-top: 0.75rem;">
